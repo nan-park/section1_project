@@ -6,3 +6,5 @@
 vgsales.csv - 분석하려고 했던 원본 파일
 
 vbsales_clean.csv - colab 파일에서 데이터 정제를 완료한 데이터 파일
+
+colab 파일에서 파일 업로드하라고 하면 vgsales.csv 올리면 됩니다.
